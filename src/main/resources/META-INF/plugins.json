@@ -1,0 +1,12 @@
+[
+  {
+    "provider": "ooper",
+    "name": "Warmth Alert",
+    "description": "Warns when 'Your Warmth' drops below a threshold.",
+    "support": "https://github.com/yourname/warmth-alert",
+    "version": "1.0.0",
+    "type": "EXTERNAL",
+    "internal": false,
+    "entryPoint": "com.warmthalert.WarmthAlertPlugin"
+  }
+]
